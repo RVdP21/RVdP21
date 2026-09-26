@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Raoul 👋
 
-<!--
-**RVdP21/RVdP21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year master's student in **Computer Science (Secure Software)** at **KU Leuven**, Belgium.
+I like building things that actually work — quickly, and with security in mind from the start.
 
-Here are some ideas to get you started:
+### Tech
+- **Languages:** TypeScript, JavaScript, Python
+- **Web:** HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Highlights
+- 🥈 2nd place in our case at the **NEXT Level Challenge** hackathon (2026)
+- 🗄️ Built a **database management system** in a team over two semesters (KU Leuven)
+
+### Currently
+- Studying secure systems and software security
+- Looking for hackathons and side projects to build with other people
