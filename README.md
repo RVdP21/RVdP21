@@ -1,7 +1,7 @@
 # Hi, I'm Raoul 👋
 
 I'm a first-year master's student in **Computer Science (Secure Software)** at **KU Leuven**, Belgium.
-I like building things that actually work — quickly, and with security in mind from the start.
+I like building things that actually work. Quickly, and with security in mind from the start.
 
 ### Tech
 - **Languages:** TypeScript, JavaScript, Python
